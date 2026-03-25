@@ -1,0 +1,4 @@
+BepInEx/cache/ 
+BepInEx/core/ 
+BepInEx/patchers/ 
+*.log 
